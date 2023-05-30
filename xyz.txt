@@ -1,4 +1,2 @@
-Hello
-This is Second Project
 xyz.txt file 
-ready for pushing 
+this is xyz
